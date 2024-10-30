@@ -104,7 +104,7 @@ jobs:
 
 </div>
 
-<h5>Thank You For Using Qadeer 💗</h5>
+<h5>Thank You For Using Qadeer WhatsApp Bot 💗</h5>
 
 <hr>
 
